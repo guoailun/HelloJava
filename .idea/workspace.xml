@@ -2,43 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607f64f9-b752-4b66-ae51-0e9e19b882b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document2/package及其引用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutoConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IncreaseDecrease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merchandise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/MyPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/PhoneMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Mainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/TestUseMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/RunMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/RunMarketHalfPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/persion/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/superMarket/LittleSuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/superMarket/Merchandise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/superMarket/Merchandise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/superMarket/RunLittleSuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/market/superMarket/RunMerchandise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cancel/CanOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cancel/Zhang/ZhangWei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/final修饰符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/方法和属性的可见性修饰符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/方法的重载.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/构造方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/类的多态.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/类的继承.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/静态变量_方法_代码块.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AI/RunAi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AI/TestAl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/RunExtendsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/Child3Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/Child1Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/child/Child2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/myRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnMain/OtherMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnMain/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/JAVA.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/JAVA.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunLittleSuperMarket">
-    <configuration name="CanOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.cancel.CanOne" />
+  <component name="RunManager" selected="Application.TestString">
+    <configuration name="Child1Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.inner.Child1Class" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.cancel.*" />
+          <option name="PATTERN" value="learnExtends.myPackage.inner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLittleSuperMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="market.superMarket.RunLittleSuperMarket" />
+    <configuration name="Child2Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.inner.child.Child2Class" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="market.superMarket.*" />
+          <option name="PATTERN" value="learnExtends.myPackage.inner.child.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="market.RunMarket" />
+    <configuration name="Child3Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.Child3Class" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="market.*" />
+          <option name="PATTERN" value="learnExtends.myPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,40 +103,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMerchandise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="market.superMarket.RunMerchandise2" />
+    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestString" />
       <module name="helloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="market.superMarket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestMyClass" />
+    <configuration name="myRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.myRun" />
       <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnExtends.myPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestMyClass" />
-      <item itemvalue="Application.CanOne" />
-      <item itemvalue="Application.RunMarket" />
-      <item itemvalue="Application.RunMerchandise2" />
-      <item itemvalue="Application.RunLittleSuperMarket" />
+      <item itemvalue="Application.myRun" />
+      <item itemvalue="Application.Child1Class" />
+      <item itemvalue="Application.Child3Class" />
+      <item itemvalue="Application.Child2Class" />
+      <item itemvalue="Application.TestString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunLittleSuperMarket" />
-        <item itemvalue="Application.RunMerchandise2" />
-        <item itemvalue="Application.RunMarket" />
-        <item itemvalue="Application.CanOne" />
-        <item itemvalue="Application.TestMyClass" />
+        <item itemvalue="Application.TestString" />
+        <item itemvalue="Application.myRun" />
+        <item itemvalue="Application.Child2Class" />
+        <item itemvalue="Application.Child3Class" />
+        <item itemvalue="Application.Child1Class" />
       </list>
     </recent_temporary>
   </component>
