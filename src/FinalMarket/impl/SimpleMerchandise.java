@@ -1,7 +1,8 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.Merchandise;
+
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.Merchandise;
 
 public class SimpleMerchandise implements Merchandise {
 
@@ -9,7 +10,7 @@ public class SimpleMerchandise implements Merchandise {
     private double soldPrice;
     private double purchasePrice;
     private int count;
-    private Category category;
+    private  Category category;
 
     public SimpleMerchandise(String name, double soldPrice, double purchasePrice, int count, Category category) {
         this.name = name;

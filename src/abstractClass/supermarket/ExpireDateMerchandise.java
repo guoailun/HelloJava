@@ -1,4 +1,4 @@
-package com.geekbang.supermarket;
+package abstractClass.supermarket;
 
 import java.util.Date;
 
@@ -45,5 +45,11 @@ public interface ExpireDateMerchandise {
     // >> TODO 接口里不能定义局部变量，定义的变量默认都是public static final的，这三个修饰符同样可以省略
 
     public static final int VAL_IN_INTERFACE = 999;
+
+    default String a () {
+        return "我是抽象类里边的default方法";
+    }
+
+
 
 }

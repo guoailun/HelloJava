@@ -1,4 +1,4 @@
-package com.geekbang.supermarket;
+package com.TestInterface.supermarket;
 
 public class LittleSuperMarket {
     public String superMarketName;

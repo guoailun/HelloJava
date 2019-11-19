@@ -1,9 +1,10 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.Card;
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.HasCard;
-import com.geekbang.supermarket.interfaces.Merchandise;
+
+import FinalMarket.interfaces.Card;
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.HasCard;
+import FinalMarket.interfaces.Merchandise;
 
 public class ThinkAndBuyCustomer extends AbsCustomer implements HasCard {
 
@@ -11,6 +12,11 @@ public class ThinkAndBuyCustomer extends AbsCustomer implements HasCard {
 
     public ThinkAndBuyCustomer(String custId, Category shouldBuy) {
         super(custId, shouldBuy, DEFAULT_GUANG_COUNT);
+    }
+
+    @Override
+    protected Category getRandomCategory() {
+        return null;
     }
 
     @Override

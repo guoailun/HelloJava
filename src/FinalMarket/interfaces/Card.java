@@ -1,4 +1,4 @@
-package com.geekbang.supermarket.interfaces;
+package FinalMarket.interfaces;
 
 /**
  * VIP卡，打折卡，赠品卡等

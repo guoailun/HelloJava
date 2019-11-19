@@ -1,4 +1,7 @@
-package com.geekbang.supermarket;
+package abstractClass.supermarket;
+
+import abstractClass.supermarket.ExpireDateMerchandise;
+import abstractClass.supermarket.MerchandiseV2;
 
 import java.util.Date;
 

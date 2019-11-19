@@ -1,7 +1,8 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.Merchandise;
+
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.Merchandise;
 
 public class SuiYuanCustomer extends AbsCustomer {
 
@@ -10,6 +11,11 @@ public class SuiYuanCustomer extends AbsCustomer {
 
     public SuiYuanCustomer(String custId, Category mustBuy) {
         super(custId, mustBuy, DEFAULT_GUANG_COUNT);
+    }
+
+    @Override
+    protected Category getRandomCategory() {
+        return null;
     }
 
     @Override

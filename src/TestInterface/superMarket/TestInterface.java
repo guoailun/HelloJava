@@ -1,4 +1,4 @@
-package com.geekbang.supermarket;
+package TestInterface.supermarket;
 
 import java.util.Date;
 

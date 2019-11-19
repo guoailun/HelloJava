@@ -1,10 +1,9 @@
-package com.geekbang;
+package TestInterface;
 
-
-import com.geekbang.supermarket.ExpireDateMerchandise;
-import com.geekbang.supermarket.GamePointCard;
-import com.geekbang.supermarket.MerchandiseV2;
-import com.geekbang.supermarket.VirtualMerchandise;
+import TestInterface.supermarket.ExpireDateMerchandise;
+import TestInterface.supermarket.GamePointCard;
+import TestInterface.supermarket.MerchandiseV2;
+import TestInterface.supermarket.VirtualMerchandise;
 
 import java.util.Date;
 

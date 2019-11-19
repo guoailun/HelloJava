@@ -2,29 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607f64f9-b752-4b66-ae51-0e9e19b882b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document2/String.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/final修饰符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/方法和属性的可见性修饰符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/方法的重载.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/构造方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/类的多态.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/类的继承.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document2/静态变量_方法_代码块.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AI/RunAi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AI/TestAl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/RunExtendsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/Child3Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/Child1Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/inner/child/Child2Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnExtends/myPackage/myRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnMain/OtherMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnMain/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/抽象类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/接口.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/枚举.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document2/类(特殊类总结).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/DiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/HasCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/Shopman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/MyInterface/SuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/ShoppingAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/AbsCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/CashCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/SimpleMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/SimpleShopman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/SimpleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/SuiYuanCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/ThinkAndBuyCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/impl/VIPCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/DiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/HasCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/Shopman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/interfaces/SuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalMarket/util/ShoppingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMenu/MyMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMenu/RunMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/UseInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/intf/Intf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/intf/Intf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/intf/Intf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/ExpireDateMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/GamePointCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/superMarket/VirtualMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/UseAbsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/AbstractExpireDateMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/ExpireDateMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/GamePointCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/supermarket/VirtualMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/UseInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/supermarket/ExpireDateMerchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/supermarket/GamePointCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/supermarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TestInterface/supermarket/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/JAVA.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/JAVA.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +74,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -63,13 +103,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestString">
-    <configuration name="Child1Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.inner.Child1Class" />
+  <component name="RunManager" selected="Application.ShoppingAppMain">
+    <configuration name="RunMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyMenu.RunMenu" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnExtends.myPackage.inner.*" />
+          <option name="PATTERN" value="MyMenu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child2Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.inner.child.Child2Class" />
+    <configuration name="ShoppingAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalMarket.ShoppingAppMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnExtends.myPackage.inner.child.*" />
+          <option name="PATTERN" value="FinalMarket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child3Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.Child3Class" />
+    <configuration name="UseAbsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractClass.UseAbsClass" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnExtends.myPackage.*" />
+          <option name="PATTERN" value="abstractClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +143,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestString" />
+    <configuration name="UseInterface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TestInterface.UseInterface" />
       <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnExtends.myPackage.myRun" />
+    <configuration name="UseInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInterface.UseInterface" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnExtends.myPackage.*" />
+          <option name="PATTERN" value="TestInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.myRun" />
-      <item itemvalue="Application.Child1Class" />
-      <item itemvalue="Application.Child3Class" />
-      <item itemvalue="Application.Child2Class" />
-      <item itemvalue="Application.TestString" />
+      <item itemvalue="Application.RunMenu" />
+      <item itemvalue="Application.UseInterface" />
+      <item itemvalue="Application.UseInterface (1)" />
+      <item itemvalue="Application.UseAbsClass" />
+      <item itemvalue="Application.ShoppingAppMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestString" />
-        <item itemvalue="Application.myRun" />
-        <item itemvalue="Application.Child2Class" />
-        <item itemvalue="Application.Child3Class" />
-        <item itemvalue="Application.Child1Class" />
+        <item itemvalue="Application.ShoppingAppMain" />
+        <item itemvalue="Application.UseAbsClass" />
+        <item itemvalue="Application.UseInterface (1)" />
+        <item itemvalue="Application.UseInterface" />
+        <item itemvalue="Application.RunMenu" />
       </list>
     </recent_temporary>
   </component>

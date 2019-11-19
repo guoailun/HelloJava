@@ -1,4 +1,4 @@
-package com.geekbang.supermarket;
+package TestInterface.supermarket;
 
 public class MerchandiseV2 {
 

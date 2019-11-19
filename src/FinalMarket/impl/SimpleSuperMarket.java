@@ -1,10 +1,11 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.Merchandise;
-import com.geekbang.supermarket.interfaces.SuperMarket;
 
-import static com.geekbang.supermarket.util.ShoppingUtil.output;
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.Merchandise;
+import FinalMarket.interfaces.SuperMarket;
+
+import static FinalMarket.util.ShoppingUtil.output;
 
 public class SimpleSuperMarket implements SuperMarket {
 

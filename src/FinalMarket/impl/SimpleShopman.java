@@ -1,8 +1,9 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.*;
 
-import static com.geekbang.supermarket.util.ShoppingUtil.output;
+import FinalMarket.interfaces.*;
+
+import static FinalMarket.util.ShoppingUtil.output;
 
 public class SimpleShopman implements Shopman {
 

@@ -1,4 +1,4 @@
-package FinalMarket;
+package FinalMarket.MyInterface;
 
 public interface Merchandise {
     String getName();

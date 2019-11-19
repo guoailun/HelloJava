@@ -1,4 +1,4 @@
-package com.geekbang.supermarket.interfaces;
+package FinalMarket.interfaces;
 
 public interface Shopman {
 

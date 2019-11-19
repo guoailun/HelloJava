@@ -1,10 +1,12 @@
-package com.geekbang.supermarket.util;
+package FinalMarket.util;
 
-import com.geekbang.supermarket.impl.*;
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.Customer;
-import com.geekbang.supermarket.interfaces.Merchandise;
-import com.geekbang.supermarket.interfaces.SuperMarket;
+
+
+import FinalMarket.impl.*;
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.Customer;
+import FinalMarket.interfaces.Merchandise;
+import FinalMarket.interfaces.SuperMarket;
 
 import java.util.Scanner;
 

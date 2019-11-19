@@ -1,4 +1,4 @@
-package com.geekbang.supermarket;
+package abstractClass.supermarket;
 
 import java.util.Date;
 

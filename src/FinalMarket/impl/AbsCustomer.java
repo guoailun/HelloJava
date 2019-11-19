@@ -1,10 +1,9 @@
-package com.geekbang.supermarket.impl;
+package FinalMarket.impl;
 
-import com.geekbang.supermarket.interfaces.Category;
-import com.geekbang.supermarket.interfaces.Customer;
-import com.geekbang.supermarket.interfaces.ShoppingCart;
 
-import static com.geekbang.supermarket.util.ShoppingUtil.getRandomCategory;
+import FinalMarket.interfaces.Category;
+import FinalMarket.interfaces.Customer;
+import FinalMarket.interfaces.ShoppingCart;
 
 public abstract class AbsCustomer implements Customer {
     private Category shouldBuy;
@@ -74,6 +73,9 @@ public abstract class AbsCustomer implements Customer {
             return getRandomCategory();
         }
     }
+
+    protected abstract Category getRandomCategory();
+
 
     @Override
     public double getMoneySpent() {

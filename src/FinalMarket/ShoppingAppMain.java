@@ -1,11 +1,13 @@
-package com.geekbang.supermarket;
+package FinalMarket;
 
-import com.geekbang.supermarket.impl.SimpleShopman;
-import com.geekbang.supermarket.interfaces.Customer;
-import com.geekbang.supermarket.interfaces.Shopman;
-import com.geekbang.supermarket.interfaces.SuperMarket;
 
-import static com.geekbang.supermarket.util.ShoppingUtil.*;
+
+import FinalMarket.impl.SimpleShopman;
+import FinalMarket.interfaces.Customer;
+import FinalMarket.interfaces.Shopman;
+import FinalMarket.interfaces.SuperMarket;
+
+import static FinalMarket.util.ShoppingUtil.*;
 
 public class ShoppingAppMain {
     public static void main(String[] args) {

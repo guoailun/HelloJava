@@ -1,10 +1,12 @@
-package com.geekbang;
+package com.TestInterface;
 
 
-import com.geekbang.supermarket.ExpireDateMerchandise;
-import com.geekbang.supermarket.GamePointCard;
-import com.geekbang.supermarket.MerchandiseV2;
-import com.geekbang.supermarket.VirtualMerchandise;
+
+
+import TestInterface.supermarket.ExpireDateMerchandise;
+import TestInterface.supermarket.GamePointCard;
+import TestInterface.supermarket.MerchandiseV2;
+import TestInterface.supermarket.VirtualMerchandise;
 
 import java.util.Date;
 
@@ -14,7 +16,7 @@ public class UseInterface {
 
         Date produceDate = new Date();
         Date expireDate = new Date(produceDate.getTime() + 365L * 24 * 3600 * 1000);
-        GamePointCard gamePointCard = new GamePointCard(
+        MerchandiseV2 gamePointCard = new GamePointCard(
             "手机001", "Phone001", 100, 1999, 999,
             produceDate, expireDate
         );
@@ -23,9 +25,10 @@ public class UseInterface {
 
 
         // >> TODO 可以用实现接口的类的引用，给接口的引用赋值。类似于可以使用子类的引用给父类赋值
-        ExpireDateMerchandise expireDateMerchandise = gamePointCard;
+        ExpireDateMerchandise expireDateMerchandise = (ExpireDateMerchandise) gamePointCard;
+        expireDateMerchandise.getExpireDate();
 
-        VirtualMerchandise virtual = gamePointCard;
+        VirtualMerchandise virtual = (VirtualMerchandise) gamePointCard;
 
         MerchandiseV2 m = gamePointCard;
 

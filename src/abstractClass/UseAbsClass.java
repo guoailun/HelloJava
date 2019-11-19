@@ -1,7 +1,7 @@
-package com.geekbang;
+package abstractClass;
 
 
-import com.geekbang.supermarket.*;
+import abstractClass.supermarket.*;
 
 import java.util.Date;
 
@@ -20,6 +20,8 @@ public class UseAbsClass {
         AbstractExpireDateMerchandise am = gamePointCard;
 
         am.describe();
+        am.a();
+        System.out.println(am.a());
 
     }
 }

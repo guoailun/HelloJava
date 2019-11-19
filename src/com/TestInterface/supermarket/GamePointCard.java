@@ -1,4 +1,6 @@
-package com.geekbang.supermarket;
+package com.TestInterface.supermarket;
+
+import TestInterface.supermarket.VirtualMerchandise;
 
 import java.util.Date;
 

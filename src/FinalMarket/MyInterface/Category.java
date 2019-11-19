@@ -1,4 +1,4 @@
-package FinalMarket;
+package FinalMarket.MyInterface;
 
 /**
  * 商品的种类

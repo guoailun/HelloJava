@@ -1,4 +1,7 @@
-package FinalMarket;
+package FinalMarket.MyInterface;
+
+import FinalMarket.interfaces.Customer;
+import FinalMarket.interfaces.ShoppingCart;
 
 /**
  * VIP卡，打折卡，赠品卡等

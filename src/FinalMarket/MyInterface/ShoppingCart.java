@@ -1,4 +1,4 @@
-package FinalMarket;
+package FinalMarket.MyInterface;
 
 import java.util.Arrays;
 import java.util.Date;
