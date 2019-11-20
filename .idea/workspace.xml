@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607f64f9-b752-4b66-ae51-0e9e19b882b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document3/异常.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document4/collection-数据结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document4/泛型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/DefineBoundedGenericTypesAppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/DefineGenericTypesAppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/MoreGenericsAppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/UseGenericClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/define/MyGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/define/MyGenericClassBounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ext/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ext/GrandParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ext/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/UseListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/LearnMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/guava_28_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document4/Lambda.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document4/file.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file/FileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file/writeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/IterateListLambdaAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/UseStreamAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maven/OldMaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/写文件.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/JAVA.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/JAVA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/标示符.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/标示符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document2/静态变量_方法_代码块.md" beforeDir="false" afterPath="$PROJECT_DIR$/document2/静态变量_方法_代码块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,13 +61,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LearnMap">
-    <configuration name="DefineGenericTypesAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.DefineGenericTypesAppMain" />
+  <component name="RunManager" selected="Application.writeFile">
+    <configuration name="FileClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.FileClass" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.LearnMap" />
+    <configuration name="LambdaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaException" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalMarket.ShoppingAppMain" />
+    <configuration name="OldMaven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maven.OldMaven" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FinalMarket.*" />
+          <option name="PATTERN" value="maven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseGenericClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.UseGenericClassMain" />
+    <configuration name="UseStreamAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.UseStreamAppMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.UseListMain" />
+    <configuration name="writeFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.writeFile" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShoppingAppMain" />
-      <item itemvalue="Application.UseListMain" />
-      <item itemvalue="Application.UseGenericClassMain" />
-      <item itemvalue="Application.DefineGenericTypesAppMain" />
-      <item itemvalue="Application.LearnMap" />
+      <item itemvalue="Application.LambdaException" />
+      <item itemvalue="Application.UseStreamAppMain" />
+      <item itemvalue="Application.FileClass" />
+      <item itemvalue="Application.OldMaven" />
+      <item itemvalue="Application.writeFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LearnMap" />
-        <item itemvalue="Application.DefineGenericTypesAppMain" />
-        <item itemvalue="Application.UseGenericClassMain" />
-        <item itemvalue="Application.UseListMain" />
-        <item itemvalue="Application.ShoppingAppMain" />
+        <item itemvalue="Application.writeFile" />
+        <item itemvalue="Application.OldMaven" />
+        <item itemvalue="Application.FileClass" />
+        <item itemvalue="Application.UseStreamAppMain" />
+        <item itemvalue="Application.LambdaException" />
       </list>
     </recent_temporary>
   </component>
